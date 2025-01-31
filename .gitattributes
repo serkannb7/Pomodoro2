@@ -8,6 +8,6 @@
 
 *.xml linguist-detectable=false
 
-*python linguist-detectable=True
+*python linguist-detectable=true
 
 *TeX linguist-detectable=false
